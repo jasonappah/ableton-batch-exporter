@@ -5,9 +5,11 @@ edition = "2021"
 
 [dependencies]
 accessibility = "0.1.6"
-cacao = "0.3.2"
+# cacao = "0.3.2"
 cocoa = "0.25.0"
-osascript = "0.3.0"
+objc = "0.2.7"
+objc_id = "0.1"
+# osascript = "0.3.0"
 
 [dependencies.osakit]
 version = "0.2.3"
